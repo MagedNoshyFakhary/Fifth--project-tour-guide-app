@@ -1,0 +1,244 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <!-- String for list item pictures-->
+    <string name="location_picture">Picture for location</string>
+    <!-- Strings for drawer_layout-->
+    <string name="open_drawer">open</string>
+    <string name="close_drawer">close</string>
+    <!-- Strings for the navigation drawer menu-->
+    <string name="newyork_activity">Newyork</string>
+    <string name="california_activity">California</string>
+
+    <!-- Strings for the Nyc Cultural frag-->
+    <string name="nyc_place_name_1">The Statue of Liberty</string>
+    <string name="nyc_place_description_1">The Statue of Liberty National Monument is a United States National Monument comprising Liberty Island and Ellis Island in the U.S. states of New Jersey and New York.It includes the Statue of Liberty (Liberty Enlightening the World) by sculptor Frédéric Auguste Bartholdi and the Statue of Liberty Museum, both situated on Liberty Island, as well as the former immigration station at Ellis Island which includes the Ellis Island Immigrant Hospital.
+The monument is managed by the National Park Service as part of the National Parks of New York Harbor office..</string>
+    <string name="nyc_place_web_1">www.statuecruises.com/refunds</string>
+    <string name="nyc_place_address_1">1 Battery Place, New York, NY 10004</string>
+    <string name="nyc_place_phone_1">+1 877- 523- 9849</string>
+    <string name="nyc_place_opening_hours_1">before 1:00 P.M</string>
+
+    <string name="nyc_place_name_2">The Metropolitan Museum of Art</string>
+    <string name="nyc_place_description_2">the largest art museum in the United States. With 6,479,548 visitors to its three locations in 2019, it was the fourth most visited art museum in the world.Its permanent collection contains over two million works.</string>
+    <string name="nyc_place_web_2">www.metmuseum.org/</string>
+    <string name="nyc_place_address_2">11000 Fifth Avenue at 82nd Street,New York, NY 10028 </string>
+    <string name="nyc_place_phone_2">+1 212-535-7710</string>
+    <string name="nyc_place_opening_hours_2">temporarily closed</string>
+
+    <string name="nyc_place_name_3">The National 9/11 Memorial and Museum</string>
+    <string name="nyc_place_description_3">A memorial was planned in the immediate aftermath of the attacks and destruction of the World Trade Center for the victims and those involved in rescue and recovery operations.[.</string>
+    <string name="nyc_place_web_3">www.911memorial.org</string>
+    <string name="nyc_place_address_3">180 Greenwich Street,New York, NY 10007</string>
+    <string name="nyc_place_phone_3">+1 (212) 312-8800</string>
+    <string name="nyc_place_opening_hours_3">before 1:00 P.M</string>
+
+    <string name="nyc_place_name_4">The Museum of Modern Art</string>
+    <string name="nyc_place_description_4">It plays a major role in developing and collecting modern art, and is often identified as one of the largest and most influential museums of modern art in the world.</string>
+    <string name="nyc_place_web_4">www.moma.org</string>
+    <string name="nyc_place_address_4">MoMA,11 West 53 Street, Manhattan</string>
+    <string name="nyc_place_phone_4">+1 877- 523- 9849</string>
+    <string name="nyc_place_opening_hours_4">before 1:00 P.M</string>
+
+    <!-- Strings for the Nyc restaurant frag-->
+    <string name="nyc_restaurant_name_1">Versa NYC</string>
+    <string name="nyc_restaurant_description_1">Chicken Specialities</string>
+    <string name="nyc_restaurant_web_1">www.versanyc.com/</string>
+    <string name="nyc_restaurant_address_1">218 W 35TH STREET NY, NY 10001</string>
+    <string name="nyc_restaurant_phone_1">+1 (646) 850-2850</string>
+    <string name="nyc_restaurant_opening_hours_1">7 AM-MIDNIGHT</string>
+
+    <string name="nyc_restaurant_name_2">le bernardin</string>
+    <string name="nyc_restaurant_description_2">A great french restaurant where you can enjoy the most delicious french food.</string>
+    <string name="nyc_restaurant_web_2">www.le-bernardin.com</string>
+    <string name="nyc_restaurant_address_2">155 W 51ST ST, NEW YORK, NY 10019</string>
+    <string name="nyc_restaurant_phone_2">+1 (212) 554-1515</string>
+    <string name="nyc_restaurant_opening_hours_2">5PM to 10PM</string>
+
+    <string name="nyc_restaurant_name_3">Rio Restaurant NYC</string>
+    <string name="nyc_restaurant_description_3">American restaurant&amp; Italian restaurant</string>
+    <string name="nyc_restaurant_web_3">www.riorestaurantnyc.com</string>
+    <string name="nyc_restaurant_address_3">619 St Johns Pl, Brooklyn, NY 11238</string>
+    <string name="nyc_restaurant_phone_3">+1 (347) 350-7758</string>
+    <string name="nyc_restaurant_opening_hours_3">5PM to 10PM</string>
+
+    <string name="nyc_restaurant_name_4">Hortus NYC</string>
+    <string name="nyc_restaurant_description_4">chinese restaurants </string>
+    <string name="nyc_restaurant_web_4">www.hortusnyc.com</string>
+    <string name="nyc_restaurant_address_4">271 5th Ave, New York, NY 10016</string>
+    <string name="nyc_restaurant_phone_4">+1 (347) 350-7744</string>
+    <string name="nyc_restaurant_opening_hours_4">5:30 PM to 11:00 PM</string>
+
+    <!-- Strings for the Nyc Park frag-->
+    <string name="nyc_park_name_1">Central Park NYC</string>
+    <string name="nyc_park_description_1">great park</string>
+    <string name="nyc_park_web_1">www.centralparknyc.org</string>
+    <string name="nyc_park_address_1">218 W 35TH STREET NY, NY 10001</string>
+    <string name="nyc_park_phone_1">+1 212.310.6600</string>
+    <string name="nyc_park_opening_hours_1">7 AM-MIDNIGHT</string>
+
+    <string name="nyc_park_name_2">Bryant Park NYC</string>
+    <string name="nyc_park_description_2">A great park</string>
+    <string name="nyc_park_web_2">bryantpark.org</string>
+    <string name="nyc_park_address_2">155 W 51ST ST, NEW YORK, NY 10018</string>
+    <string name="nyc_park_phone_2"> +1 212-768-4242</string>
+    <string name="nyc_park_opening_hours_2">7 AM-MIDNIGHT</string>
+
+    <string name="nyc_park_name_3">Brooklyn Bridge Park NYC</string>
+    <string name="nyc_park_description_3">A great park</string>
+    <string name="nyc_park_web_3">www.brooklynbridgepark.org</string>
+    <string name="nyc_park_address_3">334 Furman St, Brooklyn, NY 11201</string>
+    <string name="nyc_park_phone_3">+1 718-222-9939</string>
+    <string name="nyc_park_opening_hours_3">7 AM-MIDNIGHT</string>
+
+    <string name="nyc_park_name_4">Washington Square Park NYC</string>
+    <string name="nyc_park_description_4">A great park</string>
+    <string name="nyc_park_web_4">https://www.nycgovparks.org/parks/washington-square-park</string>
+    <string name="nyc_park_address_4">5 Ave, Waverly Pl., W. 4 St.,Manhattan, NY 10012</string>
+    <string name="nyc_park_phone_4">+1 212-639-9675</string>
+    <string name="nyc_park_opening_hours_4">7 AM-MIDNIGHT</string>
+
+    <!-- Strings for the Nyc Mall  frag-->
+    <string name="nyc_mall_name_1">Columbus Circle</string>
+    <string name="nyc_mall_description_1">Complete shopping area</string>
+    <string name="nyc_mall_web_1">www.theshopsatcolumbuscircle.com</string>
+    <string name="nyc_mall_address_1">218 W 35TH STREET NY, NY 10001</string>
+    <string name="nyc_mall_phone_1">+1 212.310.6600</string>
+    <string name="nyc_mall_opening_hours_1">7 AM-MIDNIGHT</string>
+
+    <string name="nyc_mall_name_2">MANHATTAN MALL NYC</string>
+    <string name="nyc_mall_description_2">great mall in manhattan</string>
+    <string name="nyc_mall_web_2">www.vno.com/street-retail/property/manhattan-mall</string>
+    <string name="nyc_mall_address_2">100 W 33rd St, New York, NY 10001</string>
+    <string name="nyc_mall_phone_2"> +1 212-946-6100</string>
+    <string name="nyc_mall_opening_hours_2">7 AM-MIDNIGHT</string>
+
+    <string name="nyc_mall_name_3">Queens Center NYC</string>
+    <string name="nyc_mall_description_3">great shopping center</string>
+    <string name="nyc_mall_web_3">www.shopqueenscenter.com</string>
+    <string name="nyc_mall_address_3">15 Queens Blvd,Elmhurst, Queens, New York, NY 11373</string>
+    <string name="nyc_mall_phone_3">+1 718-592-3900</string>
+    <string name="nyc_mall_opening_hours_3">7 AM-MIDNIGHT</string>
+
+    <string name="nyc_mall_name_4">Staten Island Mall NYC</string>
+    <string name="nyc_mall_description_4">great mall</string>
+    <string name="nyc_mall_web_4">www.statenislandmall.com</string>
+    <string name="nyc_mall_address_4">2655 Richmond Ave, Staten Island, NY 10314</string>
+    <string name="nyc_mall_phone_4">+1 718-761-6666</string>
+    <string name="nyc_mall_opening_hours_4">7 AM-MIDNIGHT</string>
+
+    <!-- Strings for the Ca Cultural frag-->
+    <string name="ca_place_name_1">Disneyland</string>
+    <string name="ca_place_description_1"> first of two theme parks built at the Disneyland Resort in Anaheim, California, opened on July 17, 1955. It is the only theme park designed and built to completion under the direct supervision of Walt Disney. </string>
+    <string name="ca_place_web_1">https://disneyland.disney.go.com/</string>
+    <string name="ca_place_address_1">1313 Disneyland Dr, Anaheim, CA 92802</string>
+    <string name="ca_place_phone_1">+1 (714) 781-4636 </string>
+    <string name="ca_place_opening_hours_1">before 1:00 P.M</string>
+
+    <string name="ca_place_name_2">Los Angeles County Museum of Art</string>
+    <string name="ca_place_description_2">LACMA is the largest art museum in the western United States. It attracts nearly a million visitors annually.</string>
+    <string name="ca_place_web_2">www.lacma.org/</string>
+    <string name="ca_place_address_2">5905 Wilshire Blvd., Los Angeles, CA 90036</string>
+    <string name="ca_place_phone_2">+1 +1 323-857-6000</string>
+    <string name="ca_place_opening_hours_2">temporarily closed</string>
+
+    <string name="ca_place_name_3">Reagan Library</string>
+    <string name="ca_place_description_3">The Ronald Reagan Presidential Library is the repository of presidential records from the administration of Ronald Reagan, 40th President of the United States, and the burial place of the President and First Lady.</string>
+    <string name="ca_place_web_3">www.reaganlibrary.gov</string>
+    <string name="ca_place_address_3">40 Presidential Drive,Simi Valley, CA 93065</string>
+    <string name="ca_place_phone_3">+1 805-522-2977</string>
+    <string name="ca_place_opening_hours_3">before 1:00 P.M</string>
+
+    <string name="ca_place_name_4">Cathedral of Saint Mary of the Assumption</string>
+    <string name="ca_place_description_4"> the principal church of the Roman Catholic Archdiocese of San Francisco in San Francisco, California. It is the mother church of the Catholic faithful in the California counties of Marin, San Francisco and San Mateo</string>
+    <string name="ca_place_web_4">www.smcsf.org/</string>
+    <string name="ca_place_address_4">1111 Gough St, San Francisco, CA 94109</string>
+    <string name="ca_place_phone_4">+1 415-567-2020</string>
+    <string name="ca_place_opening_hours_4">before 1:00 P.M</string>
+
+    <!-- Strings for the Nyc restaurant frag-->
+    <string name="ca_restaurant_name_1">Greenwood Pier Restaurant</string>
+    <string name="ca_restaurant_description_1">Chicken Specialities</string>
+    <string name="ca_restaurant_web_1">https://www.sacredrockresort.com/dining</string>
+    <string name="ca_restaurant_address_1">5920 CA-1, Elk, CA 95432</string>
+    <string name="ca_restaurant_phone_1"> +1 707-877-3422</string>
+    <string name="ca_restaurant_opening_hours_1">7 AM-MIDNIGHT</string>
+
+    <string name="ca_restaurant_name_2">Monty Good Burger</string>
+    <string name="ca_restaurant_description_2">A great restaurant where you can enjoy the most delicious Burger.</string>
+    <string name="ca_restaurant_web_2">montysgoodburger.com</string>
+    <string name="ca_restaurant_address_2">516 S Western Ave, Los Angeles, CA 90020</string>
+    <string name="ca_restaurant_phone_2">+1 213-915-0257</string>
+    <string name="ca_restaurant_opening_hours_2">5PM to 10PM</string>
+
+    <string name="ca_restaurant_name_3">Comal</string>
+    <string name="ca_restaurant_description_3">American restaurant</string>
+    <string name="ca_restaurant_web_3">comalberkeley.com</string>
+    <string name="ca_restaurant_address_3">2020 Shattuck Ave, Berkeley, CA 94704</string>
+    <string name="ca_restaurant_phone_3">+1 510-926-6300</string>
+    <string name="ca_restaurant_opening_hours_3">5PM to 10PM</string>
+
+    <string name="ca_restaurant_name_4">Pita Paradise Food Truck</string>
+    <string name="ca_restaurant_description_4">great truck restaurant</string>
+    <string name="ca_restaurant_web_4">https://www.facebook.com/pitaparadisefoodtruck/</string>
+    <string name="ca_restaurant_address_4">2020 H St, Bakersfield, CA 93301</string>
+    <string name="ca_restaurant_phone_4">+1 661-384-4324</string>
+    <string name="ca_restaurant_opening_hours_4">5:30 PM to 11:00 PM</string>
+
+    <!-- Strings for the Nyc Park frag-->
+    <string name="ca_park_name_1">Yosemite National Park</string>
+    <string name="ca_park_description_1">great park</string>
+    <string name="ca_park_web_1">https://www.nps.gov/yose/index.htm</string>
+    <string name="ca_park_address_1">218 W 35TH STREET NY, NY 10001</string>
+    <string name="ca_park_phone_1">+1 209-372-0200</string>
+    <string name="ca_park_opening_hours_1">7 AM-MIDNIGHT</string>
+
+    <string name="ca_park_name_2">SAN DIEGO ZOO SAFARI PARK</string>
+    <string name="ca_park_description_2">great  zoo park</string>
+    <string name="ca_park_web_2">zoo.sandiegozoo.org</string>
+    <string name="ca_park_address_2">2920 Zoo Dr, San Diego, CA 92101</string>
+    <string name="ca_park_phone_2">+1 619-231-1515</string>
+    <string name="ca_park_opening_hours_2">7 AM-MIDNIGHT</string>
+
+    <string name="ca_park_name_3">Brooklyn Bridge Park </string>
+    <string name="ca_park_description_3">great view</string>
+    <string name="ca_park_web_3">www.balboapark.org</string>
+    <string name="ca_park_address_3">1549 El Prado, San Diego, CA 92101</string>
+    <string name="ca_park_phone_3">+1 619-232-2721</string>
+    <string name="ca_park_opening_hours_3">7 AM-MIDNIGHT</string>
+
+    <string name="ca_park_name_4">Japanese Tea Garden</string>
+    <string name="ca_park_description_4">the oldest public Japanese garden in the United States</string>
+    <string name="ca_park_web_4">www.japaneseteagardensf.com/</string>
+    <string name="ca_park_address_4">75 Hagiwara Tea Garden Dr, San Francisco</string>
+    <string name="ca_park_phone_4">+1 415-752-1171</string>
+    <string name="ca_park_opening_hours_4">7 AM-MIDNIGHT</string>
+
+    <!-- Strings for the Nyc Mall  frag-->
+    <string name="ca_mall_name_1">South Coast Plaza</string>
+    <string name="ca_mall_description_1">Complete shopping area</string>
+    <string name="ca_mall_web_1">www.southcoastplaza.com</string>
+    <string name="ca_mall_address_1">3333 Bristol St, Costa Mesa, CA 92626</string>
+    <string name="ca_mall_phone_1">+1 800-782-8888</string>
+    <string name="ca_mall_opening_hours_1">7 AM-MIDNIGHT</string>
+
+    <string name="ca_mall_name_2">The Grove</string>
+    <string name="ca_mall_description_2">A great mall</string>
+    <string name="ca_mall_web_2">thegrovela.com</string>
+    <string name="ca_mall_address_2">189 The Grove Dr, Los Angeles, CA 90036</string>
+    <string name="ca_mall_phone_2">+1 323-900-80800</string>
+    <string name="ca_mall_opening_hours_2">7 AM-MIDNIGHT</string>
+
+    <string name="ca_mall_name_3">The Outlets at Orange</string>
+    <string name="ca_mall_description_3">best place fot outlet</string>
+    <string name="ca_mall_web_3">https://www.simon.com/mall/the-outlets-at-orange</string>
+    <string name="ca_mall_address_3">20 City Blvd W, Orange, CA 92868</string>
+    <string name="ca_mall_phone_3">+1 714-769-4001</string>
+    <string name="ca_mall_opening_hours_3">7 AM-MIDNIGHT</string>
+
+    <string name="ca_mall_name_4">Americana At Brand</string>
+    <string name="ca_mall_description_4">A great mall</string>
+    <string name="ca_mall_web_4">americanaatbrand.com</string>
+    <string name="ca_mall_address_4">2889 Americana Way, Glendale, CA 91210</string>
+    <string name="ca_mall_phone_4">+1 818-637-8982</string>
+    <string name="ca_mall_opening_hours_4">7 AM-MIDNIGHT</string>
+</resources>

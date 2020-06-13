@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_nyc"
+        android:title="@string/newyork_activity" />
+    <item
+        android:id="@+id/nav_ca"
+        android:title="@string/california_activity" />
+</menu>

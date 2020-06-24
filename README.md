@@ -14,5 +14,5 @@ Fragment
 ## Authors
 Maged Noshy fakhary See also the list of contributors who participated in this project.
 
-##License
+## License
 This project is licensed under the apache license - see the LICENSE.txt file for details

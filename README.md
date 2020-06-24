@@ -7,9 +7,9 @@ This is the Tour Guide app from the fifth project of Udacity Android Basics Nano
 
 
 ## Built With
-TabLayout
-Navigation drawer
-Fragment
+* TabLayout
+* Navigation drawer
+* Fragment
 
 ## Authors
 Maged Noshy fakhary See also the list of contributors who participated in this project.
